@@ -1,0 +1,56 @@
+ /* Meu primeiro arquivo CSS */
+/* TAGS */
+ p{
+    color:#FF7F50;
+    font-size: 15px;
+    font-family:Helvetica;
+ }
+
+ body{
+    background-color:#000000;
+ }
+
+ *{
+   margin:0;
+   padding:0;
+   font-family: Helvetica,Arial;
+ }
+
+ header{
+   background-color:#113997;
+   height: 80px;
+   padding: 20px;
+ }
+
+ footer{
+   clear: both;
+   background-color:#113997;;
+   height: 30px;
+   text-align: center;
+   padding: 10px;
+ }
+ 
+ h1{
+   color:#FFFFFF;
+   text-align: center;
+   margin:0 0 50px 0;
+ }
+ /* IDS */
+ #principal {
+   background-image: url('Bully-backgroud.png');
+   background-size: 100%;
+   min-height: 400px;
+   padding: 100px;      
+ }
+
+ #logolion{
+   margin-top:-23px;
+ }
+
+/* CLASSES */
+.container{
+   width: 960px;
+   margin:auto;
+}
+
+
