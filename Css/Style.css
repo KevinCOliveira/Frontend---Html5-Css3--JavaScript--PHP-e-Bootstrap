@@ -46,19 +46,11 @@
    clear:both;      
  }
 
-
  #logo {
    float:left;
    margin: -25px;
  }
-
-/* CLASSES */
-.container{
-   width: 960px;
-   margin: 0 auto;
-}
-
-#menu{
+ #menu{
   float:right;
   margin-top: 50px;
 }
@@ -73,6 +65,11 @@
 #menu a:hover{
   background-color: rgba(0, 0, 0, 0.5);
   color:#113997
+}
+/* CLASSES */
+.container{
+   width: 960px;
+   margin: 0 auto;
 }
 
 .efeito {
