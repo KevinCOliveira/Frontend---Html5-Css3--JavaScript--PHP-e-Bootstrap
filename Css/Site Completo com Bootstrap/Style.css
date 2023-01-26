@@ -1,4 +1,7 @@
-.nav-link:focus{
-        color:#335eea;
-        text-decoration: none;
+.nav-link {
+        color: #506690;
+}
+
+    .nav-link:hover{
+        color: #0d6efd; 
 }
