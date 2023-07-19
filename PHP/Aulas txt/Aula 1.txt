@@ -1,0 +1,32 @@
+PHP aula 1 
+
+
+pagina estatica - somente HTML e organzação manual 
+
+dinâmica - layout se conserva e usamos banco de daos junto com outra linguagem javascript, php java mais o HTML e organização par tornar dinamica.
+
+aprendendo PHP
+
+PHP - pré-processador de hipertextos.
+  
+  Linguagem de programção web
+
+  Interpretada 
+
+  Grátis 
+
+  Suporte Orientação a objeto 
+
+  Server-side - aplicações executadas no servidor
+  
+  Baixa curva de aprendizagem
+
+CMS - Content Management System
+
+ Sistema de gerenciamento de conteúdo Ex: Wordpress, Joomla.
+
+Frameworks - Bibliotecas que contem funcionalidades genericas que facilitam o deselvolvimento de software
+  
+  Modelo MVC
+  
+  Zend, CodeIgniter, CakePhp, Laravel
