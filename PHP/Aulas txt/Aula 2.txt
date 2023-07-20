@@ -1,0 +1,37 @@
+Variaveis php 
+
+<?php $mensagem = 'hello world';
+
+Variaveis começam com $ Ex:
+  $mensagem = 'hello world' != $mensagem = 'Hello world'; != $mensagem = 'HELLO WORLD' 
+
+Estruturas condicionais
+  % resto divisão
+  == igualdade
+  === igualdade e numero mesmo tipo
+
+Laços repetição
+  While - se repete enquanto condição for valida
+  Ex: while ($i < 10){
+            echo $i;
+            $i==;
+       }
+  Do while - executa o bloco pelo menos uma vez antes de testa condição
+  Ex: $i =0
+     do{
+        echo $i;
+        $i++;
+     } while ($i <10);
+
+  For - laço de iteração controlado
+  Ex: for($1 =0; $1 <10; $++){
+      echo $1;
+      }   
+
+  Foreach - percorre um array e exibir as informações
+  $i = [1,2,3,4,5,6,7,8,9];    
+  foreach ($i as $j){
+    echo $j;
+  }
+  
+   
