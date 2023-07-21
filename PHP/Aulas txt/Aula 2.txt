@@ -33,6 +33,26 @@ Laços repetição
   foreach ($i as $j){
     echo $j;
   }
+
+
+Array - tipo especial de dados que  permite associação de chave e valor.
+
+$variavel - array(1,2,3,4,5);
+
+echo $variavel; // nao printa
+ 
+print_r $variavel; // força a printar
+
+foreach($variavel as $v) {
+  echo $v;
+}
+
+
+
+
+
+
+
   
   
    

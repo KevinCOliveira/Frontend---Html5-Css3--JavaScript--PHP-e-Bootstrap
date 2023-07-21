@@ -1,0 +1,21 @@
+JavaScript
+  Linguagem programação web
+  Client-side
+  Precisa chamar o script no html
+
+  Variaveis
+    Declarar charset, para tirar erro de acentuação
+    Declarando variavel:
+      var mensagem = "olá mundo";
+      alert(mensagem);
+
+  Estruturas condicionais
+    estrutura ex:
+      if(condição){}
+    
+    tipos de dados:
+      % = resto divisão
+      == igual
+
+  Tipos de dados
+    Lista - Sequencia de dados.
