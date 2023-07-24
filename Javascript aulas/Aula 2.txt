@@ -1,0 +1,42 @@
+JavaScript
+
+ 132. Console do navegador
+    console.log("mensagem");
+
+ Funções
+ Ex1:
+    Function soma(a,b){
+        console.log(a+b);}
+    soma(2,2);
+
+ Ex2:
+    Function subtracao(a,b){
+        return a-b;}
+    var s = subracao(5,3);
+    console.log(s);
+
+ Ex3:
+    Function multiplicacao(a,b){
+        return a+b;}
+    console.log(multiplicacao);
+
+Eventos JavaScript
+    --programação
+
+Dom - Documento object model - interface representa objetos e paginas html.
+
+Validação de form
+    JSON - armazenamento de dados
+    Sintaxe:
+        {"firstname": "John", "lastname": "name"}
+    
+    Conferir sintaxe - http://jsonlint.com    
+    
+    Json.parse() objeto Js para Json
+    Json.strinfy() Json para objeto Js
+
+    CSV  - arquivo em que dados são separados por virgula ou outro terminador.(Comma-separated-values)
+
+    Jquery
+        Tem função getJson
+        Sintaxe: $getJson("arquivo.json",funtion(){});
